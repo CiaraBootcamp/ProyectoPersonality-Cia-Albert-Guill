@@ -1,0 +1,10 @@
+tensorflow==2.18.0
+transformers==4.43.0
+datasets==2.13.1
+scikit-learn==1.2.2
+numpy==1.24.3
+pandas==2.2.2
+ipykernel
+typing-extensions
+ipywidgets
+
